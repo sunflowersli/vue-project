@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <h1>这是APP</h1>
     <HelloWorld/>
   </div>
 </template>
