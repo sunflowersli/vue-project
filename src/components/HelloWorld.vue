@@ -9,7 +9,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '你好，vue的无数次修改后'
+      msg: '1234567'
     }
   }
 }
