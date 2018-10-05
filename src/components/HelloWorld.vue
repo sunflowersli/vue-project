@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h3>这是我的第一个git-vue项目</h3>
+    <h3>这是我的第一个git-vue项目{{msg}}</h3>
   </div>
 </template>
 
