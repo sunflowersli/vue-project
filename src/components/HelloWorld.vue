@@ -7,6 +7,10 @@
         <li>1</li>
         <li>2</li>
       </ul>
+      <ol>
+        <li>5</li>
+        <li>6</li>
+      </ol>
     </div>
   </div>
 </template>
